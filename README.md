@@ -19,3 +19,9 @@ https://crista96.github.io/quiz-app/
 4. Use **Add Question** to create a new multiple choice question and assign it to a category.
 5. Use **Stats** to view statistics about answered quiz questions.
 
+## Note on Project Structure
+
+The deployed application was developed using the standard Flutter project structure where the source code resides in the `lib` folder. 
+
+For the course submission, the `lib` folder has been renamed to `src` to follow the submission requirements. The contents of the folder remain unchanged.
+
