@@ -8,7 +8,7 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   final store = QuizStore();
-  await store.load(); // load persisted data before UI
+  await store.load(); 
 
   runApp(
     ChangeNotifierProvider.value(
